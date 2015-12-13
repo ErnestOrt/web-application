@@ -17,10 +17,12 @@ Easy;
 2. mvn clean install (test-web-application.jar will be generated on target folder)
 3. java -jar test-web-application.jar
 4. Go to http://localhost:8888/
+5. Use username:user12 pass:12 to log In
 
 ###Good to know
 
 1. You will be able to find server port (8888) and session duration (5 minutes) on properties file called application.
-2. Look for AllTests.java to launch all scenarios.
+2. You will find all user on UsersProvider.
+3. Look for AllTests.java to launch all scenarios.
 
 ###Enjoy it!
