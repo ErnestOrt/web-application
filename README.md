@@ -21,6 +21,6 @@ Easy;
 ###Good to know
 
 1. You will be able to find server port (8888) and session duration (5 minutes) on properties file called application.
-2. Look for AllTest.java to launch all scenarios.
+2. Look for AllTests.java to launch all scenarios.
 
 ###Enjoy it!
